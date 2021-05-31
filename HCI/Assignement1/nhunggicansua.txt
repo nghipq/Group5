@@ -1,0 +1,9 @@
+Bỏ chữ App
+Thêm format cho chữ Vocabulary
+Thay tấm hình khác bỏ hình điện thoại
+Chỗ signIn with FB vs gmail chỉ để logo FB và Gmail
+Dời Forgot Password lên ngang hàng vs các logon FB Gmail
+Xem lại màu của các button
+Test detial thì nên dùng các màu nhạt cho background để phân biệt được câu chẵn câu lẽ
+Giao diện Testing  và Test Detail thì nên thêm các câu hỏi thật vào
+Thay đổi màu background các button chọn đáp án như trong kahoot. 

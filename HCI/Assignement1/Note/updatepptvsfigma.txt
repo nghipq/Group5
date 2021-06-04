@@ -1,0 +1,20 @@
+ppt:
+-Sửa chỗ content cho font-size chữ nhỏ xuống lại 
+-Chỗ các mục content xem lại font-size chữ
+-Chỉnh lại chỗ advantages và dis xem lại font-size và font-chữ và màu của cái nội dung
+-Chỉnh lại site map nó gần sát phía trên của sidle
+figma:
+-Trang login chỗ Sign-in và login không đồng bộ về chữ
+-Màu của các button không đồng bộ
+-Chữ màu trắng không phù hợp với nền xanh  lá cây
+-Backgroud nên lựa chọn trong khoảng 90-100 và 200-255 không cho background nằm trong khoảng giữa từ 150-170
+-Chữ màu đen không phù hợp với nền xanh dương
+-Chữ màu trắng được đi chung với màu xanh dương
+-Reset password cho khoảng cách của 2 text cách xa nhau ra 1 chút
+-List word nên cho chữ Đã học và chưa học thành tiếng anh và cho checkbox chữ lớn hơn 1 chút
+-Learning  thì nên điền nội dung thật ko sử dụng nội dung nháp
+-Sai chữ continue
+-Sai chữ history quizs -> Quizzs History
+-Phần làm quiz nên cho điền từ vào text tránh sử dụng cách làm trắc nghiệm
+-Test Deatails nên chỉnh lại backgound 
+

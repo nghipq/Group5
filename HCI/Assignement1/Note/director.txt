@@ -1,0 +1,14 @@
+director
+- Online Store Visitors: Thống kê về số lượng người dùng truy cập vào app theo tuần 
+- Sales : Thống kê số lượng doanh thu bán hàng theo theo tháng
+- Product: Thống kê sản phẩm.
+- Online Store Overview: Thống kê tổng quát về cửa hàng bao gồm conversion rate, sales rate và registration rate
+
+director:
+-Về nhân sự:
++Quản lý tải trọng(time làm việc, nhìu-ít) nhân viên -> tiền
++Quản lý về năng suất công việc(seller bán được hay không)
+-Thống kê về doanh thu:
++Thống kê doanh thu theo thời gian(ngày , tuần ,tháng, quý , năm ,các năm)
++Thống kê doanh thu theo khách hàng(giới tính, tuổi tác, khu vực)
++Thống kê doanh thu theo sản phẩm(best seller, nhìu lỗi nhất, ế, khuyến mãi)
